@@ -2,7 +2,7 @@
   <img src="Screenshots/logo.png" width="140">
 </p>
 <div align="center">
-  <h1>userclip by JURMR</h1>
+  <h1>userclip-beta by JURMR</h1>
 
 Instant replay for your PC - the last few minutes of your screen are always in memory, so one hotkey saves the moment that already happened. Plus shared rooms, where one person presses clip and everyone in the room saves that same moment from their own point of view.
 
